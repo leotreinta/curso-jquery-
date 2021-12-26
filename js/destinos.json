@@ -1,0 +1,36 @@
+[
+
+{
+	"id":1,
+	"name":"bahia inglesa",
+	"decription":"lugar bonito como tanganmandapio pero mas habitado",
+	"moreInfo":"esto no me deja usar lorem ipsum asi que colocare cualquier cosa ",
+	"imagen": "1.jpg",
+	"price":199
+
+
+},
+{
+	"id":2,
+	"name":"iquique",
+	"decription":"lugar bonito como tanganmandapio pero mas habitado",
+	"moreInfo":"esto no me deja usar lorem ipsum asi que colocare cualquier cosa ",
+	"imagen": "1.jpg",
+	"price":199
+
+},
+{
+	"id":3,
+	"name":"arica",
+	"decription":"lugar bonito como tanganmandapio pero mas habitado",
+	"moreInfo":"esto no me deja usar lorem ipsum asi que colocare cualquier cosa ",
+	"imagen": "1.jpg",
+	"price":199
+
+}
+
+
+
+
+
+]

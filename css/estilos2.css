@@ -1,0 +1,61 @@
+#example{
+background: blue;
+
+}
+body {
+background-color: green;
+font-family: arial;
+background-color: #9b50af;
+}
+.sele{
+color: green; 
+background-color: red; !important
+}
+
+.remove{
+width: 15px;
+float: right;
+color: red;
+}
+
+.item{
+width: 150px;
+margin: 10px;
+background-color: #3beab4;
+padding: 10px;
+
+}
+
+#places-container{
+margin-left: 30px;
+
+
+}
+
+#add-container{
+margin-top: 50px;
+margin-bottom: 80px;
+margin-left: 30px;
+
+}
+
+.more-info{
+margin-top: 20px;
+display: none;
+}
+.example{
+position: relative;
+left: 20px;
+width: 100px;
+height: 100px;
+margin-top: 20px;
+background-color: #3beab4;
+}
+
+#carga{
+	width: 150px;
+margin: 10px;
+background-color: #3beab4;
+padding: 10px;
+
+}
